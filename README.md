@@ -40,6 +40,6 @@ I work with embedded engineering teams, hardware startups, and network equipment
 
 ## 📬 Contact & Links
 
-- **Location:** Cairo, Egypt (Available for Remote Global Engagements)
-- **LinkedIn:** [linkedin.com/in/ahussein1992](https://www.linkedin.com) *(Update with your direct URL)*
-- **Email:** *(Add your preferred professional contact email)*
+- **Location:** Giza, Egypt (Available for Remote Global Engagements)
+- **LinkedIn:** [https://www.linkedin.com/in/ahmedhussein1/]
+- **Email:** a.husseinfarag@gmail.com
